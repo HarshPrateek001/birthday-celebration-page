@@ -88,7 +88,20 @@ export function EndingScreen() {
 
           <p className="mt-6 text-sm text-muted-foreground">Made with all my love, just for you</p>
         </div>
+
+        <button
+  onClick={() => {
+    localStorage.removeItem("bday_progress")
+    window.location.reload()
+  }}
+  className="mt-6 px-6 py-3 bg-pink-500 text-white rounded-full font-medium text-lg shadow-lg hover:bg-pink-600 transition-all"
+>
+  Restart the Surprise 🎀
+</button>
       </div>
+
+      
+
 
       {/* POPUP - Funny Love Letter Intro */}
       {showPopup && (

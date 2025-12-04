@@ -4632,153 +4632,167 @@ function EndingScreen() {
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                 className: "jsx-854152ed82853cd6" + " " + `relative z-20 max-w-lg mx-4 text-center transition-all duration-1000 ${isVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-10"}`,
-                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                    className: "jsx-854152ed82853cd6" + " " + "glass-card rounded-3xl p-8 md:p-12",
-                    children: [
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                            className: "jsx-854152ed82853cd6" + " " + "flex justify-center gap-3 mb-6",
-                            children: [
-                                ...Array(5)
-                            ].map((_, i)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$heart$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Heart$3e$__["Heart"], {
-                                    className: "w-6 h-6 text-primary fill-primary animate-float",
-                                    style: {
-                                        animationDelay: `${i * 0.3}s`
-                                    }
-                                }, i, false, {
-                                    fileName: "[project]/components/birthday/ending-screen.tsx",
-                                    lineNumber: 37,
-                                    columnNumber: 15
-                                }, this))
-                        }, void 0, false, {
-                            fileName: "[project]/components/birthday/ending-screen.tsx",
-                            lineNumber: 35,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                            className: "jsx-854152ed82853cd6" + " " + "font-serif text-3xl md:text-4xl text-foreground mb-6 leading-tight text-balance",
-                            children: "You're the brightest part of my life."
-                        }, void 0, false, {
-                            fileName: "[project]/components/birthday/ending-screen.tsx",
-                            lineNumber: 45,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                            className: "jsx-854152ed82853cd6" + " " + "text-lg text-muted-foreground mb-4",
-                            children: "Thank you for being you."
-                        }, void 0, false, {
-                            fileName: "[project]/components/birthday/ending-screen.tsx",
-                            lineNumber: 49,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                            className: "jsx-854152ed82853cd6" + " " + "text-2xl font-serif text-primary mb-8",
-                            children: "Happy 23rd Birthday, my love."
-                        }, void 0, false, {
-                            fileName: "[project]/components/birthday/ending-screen.tsx",
-                            lineNumber: 51,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                            className: "jsx-854152ed82853cd6" + " " + "space-y-4",
-                            children: [
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                    href: "/birthday-wallpaper.jpg",
-                                    download: "Happy-Birthday-Wallpaper.png",
-                                    className: "jsx-854152ed82853cd6" + " " + "w-full px-6 py-4 bg-primary text-primary-foreground rounded-2xl font-medium text-lg hover:opacity-90 transition-opacity flex items-center justify-center gap-3",
-                                    children: [
-                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$download$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Download$3e$__["Download"], {
-                                            className: "w-5 h-5"
-                                        }, void 0, false, {
-                                            fileName: "[project]/components/birthday/ending-screen.tsx",
-                                            lineNumber: 62,
-                                            columnNumber: 15
-                                        }, this),
-                                        "Download Birthday Wallpaper"
-                                    ]
-                                }, void 0, true, {
-                                    fileName: "[project]/components/birthday/ending-screen.tsx",
-                                    lineNumber: 57,
-                                    columnNumber: 13
-                                }, this),
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
-                                    onClick: ()=>setShowPopup(true),
-                                    className: "jsx-854152ed82853cd6" + " " + "w-full px-6 py-4 bg-secondary text-secondary-foreground rounded-2xl font-medium text-lg hover:bg-secondary/80 transition-colors flex items-center justify-center gap-3",
-                                    children: [
-                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$file$2d$text$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__FileText$3e$__["FileText"], {
-                                            className: "w-5 h-5"
-                                        }, void 0, false, {
-                                            fileName: "[project]/components/birthday/ending-screen.tsx",
-                                            lineNumber: 71,
-                                            columnNumber: 15
-                                        }, this),
-                                        "Read My Love Letter"
-                                    ]
-                                }, void 0, true, {
-                                    fileName: "[project]/components/birthday/ending-screen.tsx",
-                                    lineNumber: 67,
-                                    columnNumber: 13
-                                }, this)
-                            ]
-                        }, void 0, true, {
-                            fileName: "[project]/components/birthday/ending-screen.tsx",
-                            lineNumber: 54,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                            className: "jsx-854152ed82853cd6" + " " + "mt-8 flex justify-center",
-                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                className: "jsx-854152ed82853cd6" + " " + "relative",
+                children: [
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                        className: "jsx-854152ed82853cd6" + " " + "glass-card rounded-3xl p-8 md:p-12",
+                        children: [
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                className: "jsx-854152ed82853cd6" + " " + "flex justify-center gap-3 mb-6",
                                 children: [
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$heart$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Heart$3e$__["Heart"], {
-                                        className: "w-16 h-16 text-primary fill-primary animate-pulse",
+                                    ...Array(5)
+                                ].map((_, i)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$heart$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Heart$3e$__["Heart"], {
+                                        className: "w-6 h-6 text-primary fill-primary animate-float",
                                         style: {
-                                            filter: "drop-shadow(0 0 20px rgba(236, 72, 153, 0.5))"
+                                            animationDelay: `${i * 0.3}s`
                                         }
-                                    }, void 0, false, {
+                                    }, i, false, {
                                         fileName: "[project]/components/birthday/ending-screen.tsx",
-                                        lineNumber: 79,
+                                        lineNumber: 37,
                                         columnNumber: 15
+                                    }, this))
+                            }, void 0, false, {
+                                fileName: "[project]/components/birthday/ending-screen.tsx",
+                                lineNumber: 35,
+                                columnNumber: 11
+                            }, this),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
+                                className: "jsx-854152ed82853cd6" + " " + "font-serif text-3xl md:text-4xl text-foreground mb-6 leading-tight text-balance",
+                                children: "You're the brightest part of my life."
+                            }, void 0, false, {
+                                fileName: "[project]/components/birthday/ending-screen.tsx",
+                                lineNumber: 45,
+                                columnNumber: 11
+                            }, this),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                className: "jsx-854152ed82853cd6" + " " + "text-lg text-muted-foreground mb-4",
+                                children: "Thank you for being you."
+                            }, void 0, false, {
+                                fileName: "[project]/components/birthday/ending-screen.tsx",
+                                lineNumber: 49,
+                                columnNumber: 11
+                            }, this),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                className: "jsx-854152ed82853cd6" + " " + "text-2xl font-serif text-primary mb-8",
+                                children: "Happy 23rd Birthday, my love."
+                            }, void 0, false, {
+                                fileName: "[project]/components/birthday/ending-screen.tsx",
+                                lineNumber: 51,
+                                columnNumber: 11
+                            }, this),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                className: "jsx-854152ed82853cd6" + " " + "space-y-4",
+                                children: [
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
+                                        href: "/birthday-wallpaper.jpg",
+                                        download: "Happy-Birthday-Wallpaper.png",
+                                        className: "jsx-854152ed82853cd6" + " " + "w-full px-6 py-4 bg-primary text-primary-foreground rounded-2xl font-medium text-lg hover:opacity-90 transition-opacity flex items-center justify-center gap-3",
+                                        children: [
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$download$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Download$3e$__["Download"], {
+                                                className: "w-5 h-5"
+                                            }, void 0, false, {
+                                                fileName: "[project]/components/birthday/ending-screen.tsx",
+                                                lineNumber: 62,
+                                                columnNumber: 15
+                                            }, this),
+                                            "Download Birthday Wallpaper"
+                                        ]
+                                    }, void 0, true, {
+                                        fileName: "[project]/components/birthday/ending-screen.tsx",
+                                        lineNumber: 57,
+                                        columnNumber: 13
                                     }, this),
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: "jsx-854152ed82853cd6" + " " + "absolute inset-0 animate-ping",
-                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$heart$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Heart$3e$__["Heart"], {
-                                            className: "w-16 h-16 text-primary/30 fill-primary/30"
-                                        }, void 0, false, {
-                                            fileName: "[project]/components/birthday/ending-screen.tsx",
-                                            lineNumber: 84,
-                                            columnNumber: 17
-                                        }, this)
-                                    }, void 0, false, {
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
+                                        onClick: ()=>setShowPopup(true),
+                                        className: "jsx-854152ed82853cd6" + " " + "w-full px-6 py-4 bg-secondary text-secondary-foreground rounded-2xl font-medium text-lg hover:bg-secondary/80 transition-colors flex items-center justify-center gap-3",
+                                        children: [
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$file$2d$text$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__FileText$3e$__["FileText"], {
+                                                className: "w-5 h-5"
+                                            }, void 0, false, {
+                                                fileName: "[project]/components/birthday/ending-screen.tsx",
+                                                lineNumber: 71,
+                                                columnNumber: 15
+                                            }, this),
+                                            "Read My Love Letter"
+                                        ]
+                                    }, void 0, true, {
                                         fileName: "[project]/components/birthday/ending-screen.tsx",
-                                        lineNumber: 83,
-                                        columnNumber: 15
+                                        lineNumber: 67,
+                                        columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/components/birthday/ending-screen.tsx",
-                                lineNumber: 78,
-                                columnNumber: 13
+                                lineNumber: 54,
+                                columnNumber: 11
+                            }, this),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                className: "jsx-854152ed82853cd6" + " " + "mt-8 flex justify-center",
+                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                    className: "jsx-854152ed82853cd6" + " " + "relative",
+                                    children: [
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$heart$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Heart$3e$__["Heart"], {
+                                            className: "w-16 h-16 text-primary fill-primary animate-pulse",
+                                            style: {
+                                                filter: "drop-shadow(0 0 20px rgba(236, 72, 153, 0.5))"
+                                            }
+                                        }, void 0, false, {
+                                            fileName: "[project]/components/birthday/ending-screen.tsx",
+                                            lineNumber: 79,
+                                            columnNumber: 15
+                                        }, this),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                            className: "jsx-854152ed82853cd6" + " " + "absolute inset-0 animate-ping",
+                                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$heart$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Heart$3e$__["Heart"], {
+                                                className: "w-16 h-16 text-primary/30 fill-primary/30"
+                                            }, void 0, false, {
+                                                fileName: "[project]/components/birthday/ending-screen.tsx",
+                                                lineNumber: 84,
+                                                columnNumber: 17
+                                            }, this)
+                                        }, void 0, false, {
+                                            fileName: "[project]/components/birthday/ending-screen.tsx",
+                                            lineNumber: 83,
+                                            columnNumber: 15
+                                        }, this)
+                                    ]
+                                }, void 0, true, {
+                                    fileName: "[project]/components/birthday/ending-screen.tsx",
+                                    lineNumber: 78,
+                                    columnNumber: 13
+                                }, this)
+                            }, void 0, false, {
+                                fileName: "[project]/components/birthday/ending-screen.tsx",
+                                lineNumber: 77,
+                                columnNumber: 11
+                            }, this),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                className: "jsx-854152ed82853cd6" + " " + "mt-6 text-sm text-muted-foreground",
+                                children: "Made with all my love, just for you"
+                            }, void 0, false, {
+                                fileName: "[project]/components/birthday/ending-screen.tsx",
+                                lineNumber: 89,
+                                columnNumber: 11
                             }, this)
-                        }, void 0, false, {
-                            fileName: "[project]/components/birthday/ending-screen.tsx",
-                            lineNumber: 77,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                            className: "jsx-854152ed82853cd6" + " " + "mt-6 text-sm text-muted-foreground",
-                            children: "Made with all my love, just for you"
-                        }, void 0, false, {
-                            fileName: "[project]/components/birthday/ending-screen.tsx",
-                            lineNumber: 89,
-                            columnNumber: 11
-                        }, this)
-                    ]
-                }, void 0, true, {
-                    fileName: "[project]/components/birthday/ending-screen.tsx",
-                    lineNumber: 33,
-                    columnNumber: 9
-                }, this)
-            }, void 0, false, {
+                        ]
+                    }, void 0, true, {
+                        fileName: "[project]/components/birthday/ending-screen.tsx",
+                        lineNumber: 33,
+                        columnNumber: 9
+                    }, this),
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
+                        onClick: ()=>{
+                            localStorage.removeItem("bday_progress");
+                            window.location.reload();
+                        },
+                        className: "jsx-854152ed82853cd6" + " " + "mt-6 px-6 py-3 bg-pink-500 text-white rounded-full font-medium text-lg shadow-lg hover:bg-pink-600 transition-all",
+                        children: "Restart the Surprise 🎀"
+                    }, void 0, false, {
+                        fileName: "[project]/components/birthday/ending-screen.tsx",
+                        lineNumber: 92,
+                        columnNumber: 9
+                    }, this)
+                ]
+            }, void 0, true, {
                 fileName: "[project]/components/birthday/ending-screen.tsx",
                 lineNumber: 28,
                 columnNumber: 7
@@ -4797,7 +4811,7 @@ function EndingScreen() {
                             children: "Arey bubu jaan… 💖"
                         }, void 0, false, {
                             fileName: "[project]/components/birthday/ending-screen.tsx",
-                            lineNumber: 103,
+                            lineNumber: 116,
                             columnNumber: 13
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -4805,7 +4819,7 @@ function EndingScreen() {
                             children: "Kitne badmaash ho tum… itna pyaar bhara letter padhna chahte ho? Mela Podu, mera rasmalai, rasgulaa 😌💗"
                         }, void 0, false, {
                             fileName: "[project]/components/birthday/ending-screen.tsx",
-                            lineNumber: 107,
+                            lineNumber: 120,
                             columnNumber: 13
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -4817,7 +4831,7 @@ function EndingScreen() {
                                     children: "Cancel"
                                 }, void 0, false, {
                                     fileName: "[project]/components/birthday/ending-screen.tsx",
-                                    lineNumber: 114,
+                                    lineNumber: 127,
                                     columnNumber: 15
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -4825,24 +4839,24 @@ function EndingScreen() {
                                     children: "Choo Abb Sooo Ja 💌"
                                 }, void 0, false, {
                                     fileName: "[project]/components/birthday/ending-screen.tsx",
-                                    lineNumber: 121,
+                                    lineNumber: 134,
                                     columnNumber: 15
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/components/birthday/ending-screen.tsx",
-                            lineNumber: 113,
+                            lineNumber: 126,
                             columnNumber: 13
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/components/birthday/ending-screen.tsx",
-                    lineNumber: 96,
+                    lineNumber: 109,
                     columnNumber: 11
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/components/birthday/ending-screen.tsx",
-                lineNumber: 95,
+                lineNumber: 108,
                 columnNumber: 9
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$styled$2d$jsx$2f$style$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
@@ -4962,9 +4976,26 @@ var _s = __turbopack_context__.k.signature();
 ;
 function BirthdayPage() {
     _s();
+    // Start always at landing safely
     const [currentSection, setCurrentSection] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])("landing");
+    // Load saved progress ONLY after page loads in browser (SSR fix)
+    (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useEffect"])({
+        "BirthdayPage.useEffect": ()=>{
+            if ("TURBOPACK compile-time truthy", 1) {
+                const saved = localStorage.getItem("bday_progress");
+                if (saved) {
+                    setCurrentSection(saved);
+                }
+            }
+        }
+    }["BirthdayPage.useEffect"], []);
+    // Navigate + save progress
     const navigateTo = (section)=>{
         setCurrentSection(section);
+        // Protect from SSR crash
+        if ("TURBOPACK compile-time truthy", 1) {
+            localStorage.setItem("bday_progress", section);
+        }
     };
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$birthday$2f$audio$2d$provider$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["AudioProvider"], {
         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("main", {
@@ -4974,76 +5005,76 @@ function BirthdayPage() {
                     onEnter: ()=>navigateTo("intro")
                 }, void 0, false, {
                     fileName: "[project]/app/page.tsx",
-                    lineNumber: 27,
-                    columnNumber: 42
+                    lineNumber: 56,
+                    columnNumber: 11
                 }, this),
                 currentSection === "intro" && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$birthday$2f$intro$2d$animation$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["IntroAnimation"], {
                     onContinue: ()=>navigateTo("quiz")
                 }, void 0, false, {
                     fileName: "[project]/app/page.tsx",
-                    lineNumber: 28,
-                    columnNumber: 40
+                    lineNumber: 60,
+                    columnNumber: 11
                 }, this),
                 currentSection === "quiz" && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$birthday$2f$quiz$2d$section$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["QuizSection"], {
                     onComplete: ()=>navigateTo("memory")
                 }, void 0, false, {
                     fileName: "[project]/app/page.tsx",
-                    lineNumber: 29,
-                    columnNumber: 39
+                    lineNumber: 64,
+                    columnNumber: 11
                 }, this),
                 currentSection === "memory" && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$birthday$2f$memory$2d$gallery$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["MemoryGallery"], {
                     onContinue: ()=>navigateTo("games")
                 }, void 0, false, {
                     fileName: "[project]/app/page.tsx",
-                    lineNumber: 30,
-                    columnNumber: 41
+                    lineNumber: 68,
+                    columnNumber: 11
                 }, this),
                 currentSection === "games" && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$birthday$2f$mini$2d$games$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["MiniGames"], {
                     onComplete: ()=>navigateTo("card")
                 }, void 0, false, {
                     fileName: "[project]/app/page.tsx",
-                    lineNumber: 31,
-                    columnNumber: 40
+                    lineNumber: 72,
+                    columnNumber: 11
                 }, this),
                 currentSection === "card" && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$birthday$2f$birthday$2d$card$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["BirthdayCard"], {
                     onContinue: ()=>navigateTo("cake")
                 }, void 0, false, {
                     fileName: "[project]/app/page.tsx",
-                    lineNumber: 32,
-                    columnNumber: 39
+                    lineNumber: 76,
+                    columnNumber: 11
                 }, this),
                 currentSection === "cake" && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$birthday$2f$cake$2d$ceremony$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["CakeCeremony"], {
                     onComplete: ()=>navigateTo("surprise")
                 }, void 0, false, {
                     fileName: "[project]/app/page.tsx",
-                    lineNumber: 33,
-                    columnNumber: 39
+                    lineNumber: 80,
+                    columnNumber: 11
                 }, this),
                 currentSection === "surprise" && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$birthday$2f$final$2d$surprise$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["FinalSurprise"], {
                     onContinue: ()=>navigateTo("ending")
                 }, void 0, false, {
                     fileName: "[project]/app/page.tsx",
-                    lineNumber: 34,
-                    columnNumber: 43
+                    lineNumber: 84,
+                    columnNumber: 11
                 }, this),
                 currentSection === "ending" && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$birthday$2f$ending$2d$screen$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["EndingScreen"], {}, void 0, false, {
                     fileName: "[project]/app/page.tsx",
-                    lineNumber: 35,
+                    lineNumber: 87,
                     columnNumber: 41
                 }, this)
             ]
         }, void 0, true, {
             fileName: "[project]/app/page.tsx",
-            lineNumber: 26,
+            lineNumber: 53,
             columnNumber: 7
         }, this)
     }, void 0, false, {
         fileName: "[project]/app/page.tsx",
-        lineNumber: 25,
+        lineNumber: 52,
         columnNumber: 5
     }, this);
 }
-_s(BirthdayPage, "WGM2o7m+lazl67JyIkoCUGiX/hg=");
+_s(BirthdayPage, "1EnVSbc6YojyCkvl7Z/wm6qQaco=");
 _c = BirthdayPage;
 var _c;
 __turbopack_context__.k.register(_c, "BirthdayPage");
