@@ -87,8 +87,9 @@ export function LandingScreen({ onEnter }: LandingScreenProps) {
           </div>
 
           <h1 className="font-serif text-3xl md:text-4xl font-bold text-foreground leading-tight text-balance">
-            Welcome to Your Birthday Room
+            Welcome to Your Birthday Room 
           </h1>
+          <h1 className="font-serif text-2xl md:text-3xl font-bold text-foreground leading-tight text-balance">Bubu Jaan ❤️</h1>
 
           <p className="text-muted-foreground text-lg leading-relaxed">
             A little world made only for you... tap to enter.
